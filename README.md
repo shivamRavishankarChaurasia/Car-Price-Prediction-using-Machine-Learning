@@ -1,4 +1,7 @@
 🚗 Car Price Prediction using Machine Learning
+
+
+
 📌 Overview
 This project focuses on predicting the resale price of cars using various features like brand, model, mileage, fuel type, engine power, etc. The dataset was scraped from CarDekho, a leading car marketplace in India. Using Exploratory Data Analysis (EDA), feature engineering, and regression algorithms, this project aims to build a robust and accurate model to assist buyers and sellers in estimating a car's market value.
 
